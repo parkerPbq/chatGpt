@@ -1,4 +1,4 @@
-免费的chatGPT网站,收集起来供大家学习
+Free ChatGPT Sites 免费好用的ChatGPT镜像站点集合,收集起来供大家学习
 
 |  Websites   | Model(s)  |
 |  ----  | ----  |
